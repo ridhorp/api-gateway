@@ -14,4 +14,3 @@ Menerapkan kebijakan keamanan pada setiap permintaan.
 - Install dependensi dengan menjalankan perintah ``` npm install ``` di terminal.
 - Konfigurasikan lingkungan (environment) pada file .env sesuai dengan kebutuhan Anda.
 - Jalankan aplikasi dengan perintah ``` npm start ```
-- Aplikasi akan berjalan di http://localhost:3000.
