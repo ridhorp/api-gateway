@@ -10,8 +10,8 @@ Melakukan otentikasi, otorisasi, dan pembatasan akses pada setiap permintaan.
 Meneruskan permintaan dari klien ke layanan terkait.
 Menerapkan kebijakan keamanan pada setiap permintaan.
 # Cara Penggunaan
-Clone repositori ini ke dalam komputer lokal Anda.
-Install dependensi dengan menjalankan perintah npm install di terminal.
-Konfigurasikan lingkungan (environment) pada file .env sesuai dengan kebutuhan Anda.
-Jalankan aplikasi dengan perintah npm start.
-Aplikasi akan berjalan di http://localhost:3000.
+- Clone repositori ini ke dalam komputer lokal Anda.
+- Install dependensi dengan menjalankan perintah ``` npm install ``` di terminal.
+- Konfigurasikan lingkungan (environment) pada file .env sesuai dengan kebutuhan Anda.
+- Jalankan aplikasi dengan perintah ``` npm start ```
+- Aplikasi akan berjalan di http://localhost:3000.
