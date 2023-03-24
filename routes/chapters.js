@@ -3,8 +3,6 @@ const router = express.Router();
 
 const chaptersHandler = require("./handler/chapters");
 
-// const verifyToken = require("../middlewares/verifyToken");
-
 router.get("/:id", chaptersHandler.get);
 router.get("/", chaptersHandler.getAll);
 router.post("/", chaptersHandler.create);
